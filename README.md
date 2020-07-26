@@ -1,1 +1,1 @@
-# VeritOS.org
+# veritos
