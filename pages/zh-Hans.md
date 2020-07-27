@@ -13,7 +13,7 @@ permalink: /zh-Hans
 
 # VeritOS - 区块链操作系统
 
-VeritOS 区块链操作系统启动于 2018 年。作为一个专注于区块链的自由操作系统，VeritOS 格外重视用户隐私、安全性和易用性。Veritos 是拉丁语“真理”的复数形式，同时单词结尾的 OS 代表 Operating Sytem ，也就是操作系统的意思。区块链其去中心的意义在于信任和 Tokenise，真理蕴藏在代码和共识之中。透过对区块链和操作系统的美好理解，VeritOS 旨在为用户探索开放互联网提供一条优美的路径。
+VeritOS 区块链操作系统启动于 2018 年。作为一个专注于区块链的自由操作系统，VeritOS 注重保护用户隐私、提供高安全性和易用性。Veritos 是拉丁语“真理”的复数形式，同时词尾的 OS 代表 Operating Sytem ，也就是操作系统的意思。区块链去中心的意义在于信任和 Tokenise，真理蕴藏在代码和共识之中。透过对区块链和操作系统的美好理解，VeritOS 旨在为用户探索开放互联网提供一条优美的路径。
 
 $$
 E_{world}(x)\rightarrow (x+n) mod E_{world}(x)^{+} = (x-n) mod 26 
