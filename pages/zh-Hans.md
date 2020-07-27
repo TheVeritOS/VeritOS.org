@@ -19,8 +19,8 @@ $$
 E_{world}(x)\rightarrow (x+n) mod E_{world}(x)^{+} = (x-n) mod 26 
 $$
 
-* 高度的安全性和隐私保障。
-* 充分的易用性，即使是非技术用户也可以得心应手。
+* 高度的安全性和严格的隐私保障。
+* 充分的易用性，非技术用户同样得心应手。
 * 面向区块链的自定向下用户体验设计。
 * 联系 VeritOS 团队 (加密 Token: 5147): 
   <p class="encrypted" id="ZER7V3r2Ps+rj3HROaB2LAQb1Zxdbzb4qS9VA/mKsq7QmWR+x8Bg==">本段内容加密，请在页面顶端输入 Token 来解密查阅.</p>
