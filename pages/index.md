@@ -5,13 +5,13 @@ toc: false
 home_btn: true
 btn_text: true
 footer: true
-title: ""
-author: ""
+title: "VeritOS - Blockchain Operating System"
+author: "VeritOS"
 encrypted_text: true
 permalink: /
 ---
 
-# VeritOS - Blockchain Operating System
+## VeritOS - Blockchain Operating System
 
 ##  
 $$
@@ -23,16 +23,9 @@ $$
 * Contact the VeritOS team (Encrypt Token: 5147): 
   <p class="encrypted" id="ZER7V3r2Ps+rj3HROaB2LAQb1Zxdbzb4qS9VA/mKsq7QmWR+x8Bg==">Encrypted content! Input token to see.</p>
 
-$$
-NADH+Q+5\;H_{matrix}^{+}\rightarrow NAD^{+}+QH_{2}+4\;H_{intermembrane}^{+}\!
-$$
-
-
-
-
 ```ruby
 # Surf the Blockchain world with VeritOS
-GitHubPages::Dependencies.gems.each do |gem, version|
+Planet::Decentralized.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
 ```
