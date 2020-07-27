@@ -175,7 +175,7 @@
       try {
         var txt = sjcl.json.decrypt(pwd, ct);
       } catch (e) {
-        alert("Invalid Access Token!");
+        alert("Invalid Decrypt Token!");
         return;
       }
       elem_clct[acc].innerHTML = txt;

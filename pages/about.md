@@ -8,7 +8,7 @@ footer: true
 title: ""
 author: ""
 encrypted_text: true
-permalink: /
+permalink: /about
 ---
 
 # VeritOS - Blockchain Operating System
