@@ -1,7 +1,7 @@
 ---
 layout: default
 post_list: "date"
-toc: false
+toc: true
 home_btn: true
 btn_text: true
 footer: true
@@ -11,7 +11,7 @@ encrypted_text: true
 permalink: /
 ---
 
-## VeritOS - Blockchain Operating System
+# VeritOS - Blockchain Operating System
 
 ##  
 $$
