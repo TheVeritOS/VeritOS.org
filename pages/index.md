@@ -13,16 +13,22 @@ permalink: /
 
 # VeritOS - Blockchain Operating System
 
-##  Power Points
+##  
+$$
+E_{world}(x)\rightarrow (x+n) mod E_{world}(x)^{+} = (x-n) mod 26 
+$$
+
 * High Security and Privacy.
 * Blockchain-centric design.
-* Contact the VeritOS team (access token: 5147): 
+* Contact the VeritOS team (Encrypt Token: 5147): 
   <p class="encrypted" id="ZER7V3r2Ps+rj3HROaB2LAQb1Zxdbzb4qS9VA/mKsq7QmWR+x8Bg==">Encrypted content! Input token to see.</p>
-* LaTeX formula Support with MathJax
 
 $$
 NADH+Q+5\;H_{matrix}^{+}\rightarrow NAD^{+}+QH_{2}+4\;H_{intermembrane}^{+}\!
 $$
+
+
+
 
 ```ruby
 # Surf the Blockchain world with VeritOS
