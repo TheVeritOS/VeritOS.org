@@ -4,7 +4,7 @@ post_list: false
 toc: false
 home_btn: true
 btn_text: true
-footer: true
+footer: false
 title: "About VeritOS"
 author: "VeritOS"
 encrypted_text: false
