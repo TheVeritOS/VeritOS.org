@@ -49,7 +49,7 @@
                     <a class="header_btn" id="acs_btn" onclick="apply_token()">
                         <i class="fa fa-key">
                             {% if page.btn_text != false %}
-                                <p class="btn_text">Token</p>
+                                <p class="btn_text">Decrypt Token</p>
                             {% endif %}
                         </i>
                     </a>
@@ -184,7 +184,7 @@
   }
   function apply_token() {
     var tkn = document.getElementById("acs_tkn");
-    if (decrypt_all(tkn.value, "encryptedddddddddddddddd")) {
+    if (decrypt_all(tkn.value, "encrypted")) {
       tkn.style.display = "none";
       document.getElementById("acs_btn").style.display = "none";
     }
