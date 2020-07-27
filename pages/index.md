@@ -13,7 +13,7 @@ permalink: /
 
 # VeritOS - Blockchain Operating System
 
-VeritOS is a Blockchain Operating System since 2018. As a blockchain-centric free OS, VeritOS heavily focused on security, privacy and usability. Built by skilled researchers and experienced open source fans, VeritOS presents the beautiful way forward for everyone interested in the open web.
+VeritOS is a Blockchain Operating System since 2018. As a blockchain-centric free OS, VeritOS heavily focused on user security, privacy and usability. Built by skilled researchers and experienced open source fans, VeritOS presents the beautiful way forward for everyone interested in the next open web.
 
 $$
 E_{world}(x)\rightarrow (x+n) mod E_{world}(x)^{+} = (x-n) mod 26 
@@ -31,4 +31,6 @@ Planet::Decentralized.os.each do |os, version|
   s.add_dependency(os, "= #{version}")
 NOend
 ```
+
+- [漢字](zh-Hant) -  [简化字](zh-Hans) -  [日本語](zh-Hant) - [தமிழ் ](ta) - [Bahasa Melayu](ms)
 
