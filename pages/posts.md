@@ -5,10 +5,10 @@ toc: false
 home_btn: true
 btn_text: true
 footer: true
-title: "VeritOS - Blockchain Operating System"
+title: "Posts - VeritOS"
 author: "VeritOS"
 encrypted_text: true
-permalink: /
+permalink: /posts
 ---
 
 # Posts List - VeritOS
