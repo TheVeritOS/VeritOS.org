@@ -28,6 +28,6 @@ Commen users, develoers and miners can use VeritOS to begin the journey in block
 # Surf the Blockchain world with VeritOS
 GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
-end
+N0 end
 ```
 

@@ -8,22 +8,22 @@ footer: false
 title: "VeritOS - Blockchain Operating System"
 author: "VeritOS"
 encrypted_text: true
-permalink: /
+permalink: /ms
 ---
 
-# VeritOS - Blockchain Operating System
+# VeritOS - Sistem Operasi Blockchain
 
-VeritOS is a Blockchain Operating System since 2018. As a blockchain-centric free OS, VeritOS heavily focused on user security, privacy and usability. Built by skilled researchers and experienced open source fans, VeritOS presents the beautiful way forward for everyone interested in the next open web.
+VeritOS adalah Sistem Operasi Blockchain sejak tahun 2018. Sebagai OS percuma yang berpusat pada blockchain, VeritOS sangat menumpukan pada keselamatan pengguna, privasi dan kegunaan. Dibina oleh penyelidik yang mahir dan peminat sumber terbuka yang berpengalaman, VeritOS menghadirkan jalan yang indah untuk semua orang yang berminat dalam laman web terbuka seterusnya.
 
 $$
 E_{world}(x)\rightarrow (x+n) mod E_{world}(x)^{+} = (x-n) mod 26 
 $$
 
-* High Security and Privacy.
-* Easy to use for non-technical users.
-* Blockchain-centric design.
-* Contact the VeritOS team (Encrypt Token: 5147): 
-  <p class="encrypted" id="ZER7V3r2Ps+rj3HROaB2LAQb1Zxdbzb4qS9VA/mKsq7QmWR+x8Bg==">Encrypted content! Please input token to see.</p>
+* Keselamatan dan Privasi yang tinggi.
+* Mudah digunakan untuk pengguna bukan teknikal.
+* Reka bentuk berpusatkan blockchain.
+* Hubungi pasukan VeritOS (Encrypt Token: 5147):
+  <p class="encrypted" id="ZER7V3r2Ps+rj3HROaB2LAQb1Zxdbzb4qS9VA/mKsq7QmWR+x8Bg==">Kandungan yang disulitkan! Sila masukkan token untuk melihat.</p>
 
 ```ruby
 # Surf the Blockchain world with VeritOS
