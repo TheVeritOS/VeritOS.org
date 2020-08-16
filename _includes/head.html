@@ -11,6 +11,14 @@
   %}
   {% endif %}
   <meta content="{{ desc }}" name="description" />
+    <!-- site keywords -->
+  {% if page.keywords %}
+  {% assign kws = page.keywords}
+  {% else %}
+  {% assign kws = "Blockchain, Operating System, OS, VeritOS, Defi, Decentralized, Open Source"
+  %}
+  {% endif %}
+  <meta content="{{ kws }}" name="keywords" />
   <!-- referer for 3rd-part images-->
   <meta content="no-referrer" name="referrer" />
   <!-- title -->
