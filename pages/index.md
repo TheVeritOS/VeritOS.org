@@ -6,7 +6,7 @@ home_btn: true
 btn_text: true
 footer: false
 title: "VeritOS - Blockchain Operating System"
-desc: "VeritOS is a Blockchain Operating System since 2018, native blockchain-orintend designed focusing on user security, privacy and usability"
+excerpt: "VeritOS is a Blockchain Operating System since 2018, native blockchain-orintend designed focusing on user security, privacy and usability"
 author: "VeritOS"
 encrypted_text: true
 permalink: /
