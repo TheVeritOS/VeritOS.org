@@ -16,7 +16,7 @@
   {% assign kws = page.keywords | strip_html |
   strip_newlines | truncate: 160 %}
   {% else %}
-  {% assign kws = "Blockchain, Operating System, OS, VeritOS, Defi, Decentralized, Open Source, IPFS, Mining"
+  {% assign kws = site.keywords
   %}
   {% endif %}
   <meta content="{{ kws }}" name="keywords" />
