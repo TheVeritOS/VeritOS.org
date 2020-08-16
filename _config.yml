@@ -4,7 +4,7 @@ owner: "VeritOS"
 url: "https://veritos.org"
 baseurl: "/"
 permalink: /:title/
-description: ""
+description: "VeritOS is a Blockchain Operating System since 2018, native blockchain-orintend designed focusing on user security, privacy and usability"
 markdown: kramdown
 webrick:
   headers:
