@@ -5,7 +5,9 @@ toc: false
 home_btn: true
 btn_text: true
 footer: false
-title: "VeritOS - 區塊鏈作業系統"
+title: "VeritOS - ブロックチェーン オペレーティングシステム "
+excerpt: "VeritOS はブロックチェーンに焦点を当てた自由のオペレーティングシステムであり、ユーザーのプライバシーの保護、高いセキュリティと使いやすさの提供、ユーザーにオープンインターネットを探索するための美しい道の提供に重点を置いています。"
+keywords: "VeritOS, ブロックチェーン,  OS,オペレーティングシステム , フィンテック , Linux, Open Source, ビットコイン, イーサリアム, 分散データベース, オープンソース, BitCoin, Ethereum, IPFS"
 author: "VeritOS"
 encrypted_text: true
 permalink: /ja
@@ -13,7 +15,7 @@ permalink: /ja
 
 # VeritOS - 區塊鏈作業系統
 
-VeritOS 是一個專注於區塊鏈的自由作業系統，肇始於 2018 年，致力保護用戶的隱私、提供高安全性和高易用性。Veritos 是拉丁語"真理"的復數形式，同時單詞結尾的 OS 代表  Operating Sytem ，也就是作業系統的意思。區塊鏈其去中心的意義在於信任和 Tokenise，真理蘊藏在代碼和共識之中。透過對區塊鏈和作業系統的美好理解，VeritOS 旨在爲用戶探索開放互聯網提供一條優美的路徑。
+VeritOSは2018年からブロックチェーンオペレーティングシステムです。ブロックチェーン中心の自由OSとして、VeritOSはユーザーのセキュリティ、プライバシー、使いやすさに重点を置いています。 熟練した研究者と経験豊富なオープンソースファンによって構築されたVeritOSは、次のオープンWebに関心のあるすべての人に美しい道を提供します。
 
 $$
 E_{world}(x)\rightarrow (x+n) mod E_{world}(x)^{+} = (x-n) mod 26 
