@@ -13,7 +13,7 @@ encrypted_text: true
 permalink: /fr
 ---
 
-# VeritOS - Blockchain Operating System
+# VeritOS - Système D'exploitation Blockchain
 
 VeritOS is a Blockchain Operating System since 2018. As a blockchain-centric free OS, VeritOS heavily focused on user security, privacy and usability. Built by skilled researchers and experienced open source fans, VeritOS presents the beautiful way forward for everyone interested in the next open web.
 

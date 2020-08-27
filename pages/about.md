@@ -6,6 +6,8 @@ home_btn: true
 btn_text: true
 footer: false
 title: "About VeritOS"
+excerpt: "VeritOS is a Blockchain Operating System since 2018."
+keywords: "Blockchain, Operating System, OS, VeritOS, Defi, Decentralized, Open Source"
 author: "VeritOS"
 encrypted_text: false
 permalink: /about
