@@ -7,7 +7,7 @@ btn_text: true
 footer: false
 title: "VeritOS - 区块链操作系统"
 excerpt: "VeritOS 区块链操作系统启动于 2018 年。作为一个专注于区块链的自由操作系统，VeritOS 注重保护用户隐私、提供高安全性和易用性，并旨在为用户探索开放互联网提供一条优美的路径。"
-keywords: "区块链, 操作系统,  OS,VeritOS, 金融科技, 去中心化, 开源,  Bitcoin, 以太坊, 钱包, 挖矿, IPFS"
+keywords: "区块链, 操作系统,  OS,VeritOS, 金融科技, 去中心化, 开源,  Bitcoin, 以太坊, 钱包, 挖矿, IPFS, 中国, 中文"
 author: "VeritOS"
 encrypted_text: true
 permalink: /zh-hans

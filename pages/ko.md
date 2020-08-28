@@ -5,13 +5,15 @@ toc: false
 home_btn: true
 btn_text: true
 footer: false
-title: "VeritOS - 區塊鏈作業系統"
+title: "VeritOS - 블록 체인 운영 체제"
+excerpt: "VeritOS 블록 체인 운영 체제啟動於 2018 年。作為一個專注於區塊鏈的自由作業系統，VeritOS 注重保護用戶隱私、提供高安全性和易用性，並為用戶探索開放互聯網提供一條優美的路徑。"
+keywords: "VeritOS, 區塊鏈,  OS,作業系統, 金融科技, 去中心化, 開源,  比特幣, 以太坊, 開放原始碼, 星際文件系統, Ethereum, IPFS, 臺灣"
 author: "VeritOS"
 encrypted_text: true
 permalink: /ko
 ---
 
-# VeritOS - 區塊鏈作業系統
+# VeritOS - 블록 체인 운영 체제
 
 VeritOS 是一個專注於區塊鏈的自由作業系統，肇始於 2018 年，致力保護用戶的隱私、提供高安全性和高易用性。Veritos 是拉丁語"真理"的復數形式，同時單詞結尾的 OS 代表  Operating Sytem ，也就是作業系統的意思。區塊鏈其去中心的意義在於信任和 Tokenise，真理蘊藏在代碼和共識之中。透過對區塊鏈和作業系統的美好理解，VeritOS 旨在爲用戶探索開放互聯網提供一條優美的路徑。
 

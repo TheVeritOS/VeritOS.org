@@ -7,7 +7,7 @@ btn_text: true
 footer: false
 title: "VeritOS - ブロックチェーン オペレーティングシステム "
 excerpt: "VeritOS はブロックチェーンに焦点を当てた自由のオペレーティングシステムであり、ユーザーのプライバシーの保護、高いセキュリティと使いやすさの提供、ユーザーにオープンインターネットを探索するための美しい道の提供に重点を置いています。"
-keywords: "VeritOS, ブロックチェーン,  OS,オペレーティングシステム , フィンテック , Linux, Open Source, ビットコイン, イーサリアム, 分散データベース, オープンソース, BitCoin, Ethereum, IPFS"
+keywords: "VeritOS, ブロックチェーン,  OS,オペレーティングシステム , フィンテック , Linux, Open Source, ビットコイン, イーサリアム, 分散データベース, オープンソース, BitCoin, Ethereum, IPFS, 日本, Nippon, Nihon"
 author: "VeritOS"
 encrypted_text: true
 permalink: /ja

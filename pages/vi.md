@@ -7,7 +7,7 @@ btn_text: true
 footer: false
 title: "VeritOS - Blockchain Operating System"
 excerpt: "VeritOS is a Blockchain Operating System since 2018, native blockchain-centric designed for open web, and focusing on user security, privacy and usability"
-keywords: "Blockchain, Operating System, OS, VeritOS, Defi, Decentralized, Open Source, Bitcoin, Ethereum, Wallet, Mining, IPFS"
+keywords: "Blockchain, Operating System, OS, VeritOS, Defi, Decentralized, Open Source, Bitcoin, Ethereum, Wallet, Mining, IPFS, Vietnam"
 author: "VeritOS"
 encrypted_text: true
 permalink: /vi
