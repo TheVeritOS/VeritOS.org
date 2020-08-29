@@ -8,7 +8,7 @@ footer: false
 title: "VeritOS - Blockchain Operating System"
 author: "VeritOS"
 encrypted_text: true
-permalink: /
+permalink: /es
 ---
 
 # VeritOS - Blockchain Operating System
