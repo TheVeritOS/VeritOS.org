@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Exodus Wallet 
-author: Maxim
-category: Wallet
-date: 2019-7-16
+author: VeritOS
+category: Software
+date: 2019-7-19
 ---
 
 # Exodus Desktop Wallet
