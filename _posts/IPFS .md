@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Text Styles and Markdown Quick Reference
-author: DeerRIDER
+title: IPFS powers the Distributed Web
+author: VeritOS
 post_list: "date"
 toc: true
 home_btn: true
@@ -10,10 +10,10 @@ footer: true
 maximize: true
 encrypted_text: true
 toc_level: 4
-category: Sample
+category: Protocal
 date: 2019-5-25
-excerpt: "This is excerpt."
-abstract: "This is abstract. Abstract is blank by default."
+excerpt: "IPFS is a peer-to-peer hypermedia protocol designed to make the web faster, safer, and more open. It works well on VeritOS."
+abstract: " IPFS is a peer-to-peer hypermedia protocol designed to make the web faster, safer, and more open."
 ---
 
 ## Style Test Below
