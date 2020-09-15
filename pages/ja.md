@@ -25,7 +25,7 @@ $$
 * 十分に使いやすく、技術ユーザーではなくても勝手に使う
 * ブロックチェーン向けの上から下のユーサー体験デザイン
 * 联系 VeritOSチームのコンタクト(暗号化Token: 5147):
-  <p class="encrypted" id="ZER7V3r2Ps+rj3HROaB2LAQb1Zxdbzb4qS9VA/mKsq7QmWR+x8Bg==">本段內容已加密，請在頁面頂端輸入 Token 來解密閱讀</p>
+  <p class="encrypted" id="ZER7V3r2Ps+rj3HROaB2LAQb1Zxdbzb4qS9VA/mKsq7QmWR+x8Bg==">ページの先頭にtokenを入力して解読してください</p>
 
 ```ruby
 # Surf the Blockchain world with VeritOS

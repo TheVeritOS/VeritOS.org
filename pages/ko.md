@@ -15,17 +15,17 @@ permalink: /ko
 
 # VeritOS - 블록 체인 운영 체제
 
-VeritOS 是一個專注於區塊鏈的自由作業系統，肇始於 2018 年，致力保護用戶的隱私、提供高安全性和高易用性。Veritos 是拉丁語"真理"的復數形式，同時單詞結尾的 OS 代表  Operating Sytem ，也就是作業系統的意思。區塊鏈其去中心的意義在於信任和 Tokenise，真理蘊藏在代碼和共識之中。透過對區塊鏈和作業系統的美好理解，VeritOS 旨在爲用戶探索開放互聯網提供一條優美的路徑。
+VeritOS 블록체인 운영시스템은 2018년에 시작했습니다. 블록체인화에 집중한 개인 운영 시스템인 VeritOS는 개인정보 보호와 높은 보안성과 실용성을 중시하고 있습니다. Veritos는 라틴어 '진리'의 복수형이고 OS는 Operating System 을 의미하는 운영체제를 나타냅니다. 블록 체인 중요성은 신뢰와 토큰화에 있으며 진실은 코드와 합의에 내재되어 있습니다. 블록 체인과 운영체제에 대한 이해를 통해 VeritOS는 사용자가 개방형 인터넷을 탐색할 수 있는 적절한 경로를 제공하는 것을 목표입니다.
 
 $$
 E_{world}(x)\rightarrow (x+n) mod E_{world}(x)^{+} = (x-n) mod 26 
 $$
 
-* 高度的安全性和嚴格的隱私保障。
-* 充分的易用性，非技術用戶也可以得心應手。
-* 面向區塊鏈的自頂向下用戶體驗設計。
-* 聯系 VeritOS 團隊 (加密 Token: 5147): 
-  <p class="encrypted" id="ZER7V3r2Ps+rj3HROaB2LAQb1Zxdbzb4qS9VA/mKsq7QmWR+x8Bg==">本段內容已加密，請在頁面頂端輸入 Token 來解密閱讀</p>
+* 높은 보안성 및 엄격한 개인정보 보호.       
+* 비전문자에게도 다루기 쉬운 충분한 사용성.
+* 블록 체인을 위한 자기 지향적 사용자 경험 디자인.
+* 연락처: VeritOS 팀 (암호화 된 Token : 5147) :
+  <p class="encrypted" id="ZER7V3r2Ps+rj3HROaB2LAQb1Zxdbzb4qS9VA/mKsq7QmWR+x8Bg==">이 단락의 내용은 암호화되어 있습니다. 페이지 상단의 Token을 입력하여 암호를 해독하고 확인하십시오.</p>
 
 ```ruby
 # Surf the Blockchain world with VeritOS
