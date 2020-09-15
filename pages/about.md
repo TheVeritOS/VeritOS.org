@@ -23,4 +23,11 @@ Commen users, develoers and miners can use VeritOS to begin the journey in block
 * High Security and Privacy.
 * Blockchain-centric design.
 
+##  Place Points
+* Singapore.
+* Hong Kong.
+* Sydney.
+* Jerusalem.
+* Bengaluru.
+
 

@@ -15,23 +15,23 @@ permalink: /ja
 
 # VeritOS - ブロックチェーン オペレーティングシステム 
 
-VeritOSは2018年からブロックチェーンオペレーティングシステムです。ブロックチェーン中心の自由OSとして、VeritOSはユーザーのセキュリティ、プライバシー、使いやすさに重点を置いています。 熟練した研究者と経験豊富なオープンソースファンによって構築されたVeritOSは、次のオープンWebに関心のあるすべての人に美しい道を提供します。
+VeritOSブロックチェーンは2018年に開始された。ブロックチェーン操作システムとして、VeritOSはユーザーのセキュリティ、プライバシー、使いやすさに重点を置いています。 Veritosはラテン語の「真理」の複数形であり、語尾のOSはOperating System、すなわちオペレーティング システムの意味である。ブロックチェーンの中心化を除く意義は信頼とTokeniseにあり、真理はコードと共通認識の中にある。ブロックチェーン及びオペレーティング・システムのすばらしい理解を通じて、VeritOSはユーザーにインターネットを探索するように美しい道を提供する。
 
 $$
 E_{world}(x)\rightarrow (x+n) mod E_{world}(x)^{+} = (x-n) mod 26 
 $$
 
-* 高度的安全性和嚴格的隱私保障。
-* 充分的易用性，非技術用戶也可以得心應手。
-* 面向區塊鏈的自頂向下用戶體驗設計。
-* 聯系 VeritOS 團隊 (加密 Token: 5147): 
+* 高い安全性と厳しいプライバシーの確保。
+* 十分に使いやすく、技術ユーザーではなくても勝手に使う
+* ブロックチェーン向けの上から下のユーサー体験デザイン
+* 联系 VeritOSチームのコンタクト(暗号化Token: 5147):
   <p class="encrypted" id="ZER7V3r2Ps+rj3HROaB2LAQb1Zxdbzb4qS9VA/mKsq7QmWR+x8Bg==">本段內容已加密，請在頁面頂端輸入 Token 來解密閱讀</p>
 
 ```ruby
 # Surf the Blockchain world with VeritOS
 Planet::Decentralized.os.each do |os, version|
   s.add_dependency(os, "= #{version}")
-NOend
+NOend //Nana
 ```
 
    ▄█    █▄     ▄████████    ▄████████  ▄█      ███      ▄██████▄     ▄████████ 
