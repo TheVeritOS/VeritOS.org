@@ -5,13 +5,15 @@ toc: false
 home_btn: true
 btn_text: true
 footer: false
-title: "VeritOS - VERITOS - BLOCKCHAIN-BETRIEBSSYSTEM"
+title: "VeritOS - BLOCKCHAIN-BETRIEBSSYSTEM"
+excerpt: "VeritOS ist seit 2018 ein Blockchain-Betriebssystem. Als blockchain-zentriertes freies Betriebssystem konzentrierte sich VeritOS stark auf Benutzersicherheit, Datenschutz und Benutzerfreundlichkeit. "
+keywords: "Blockchain, Betriebssystem, OS, VeritOS, Defi, Decentralized, Open Source, Bitcoin, Ethereum, Wallet, Mining, IPFS"
 author: "VeritOS"
 encrypted_text: true
 permalink: /de
 ---
 
-# VeritOS - VERITOS - BLOCKCHAIN-BETRIEBSSYSTEM
+# VeritOS - BLOCKCHAIN-BETRIEBSSYSTEM
 
 VeritOS ist seit 2018 ein Blockchain-Betriebssystem. Als blockchain-zentriertes freies Betriebssystem konzentrierte sich VeritOS stark auf Benutzersicherheit, Datenschutz und Benutzerfreundlichkeit. VeritOS wurde von erfahrenen Forschern und erfahrenen Open-Source-Fans entwickelt und bietet allen, die sich für das nächste offene Web interessieren, den schönen Weg nach vorne.
 
@@ -29,7 +31,7 @@ $$
 # Surfen Sie mit VeritOS in der Blockchain-Welt
 Planet::Decentralized.os.each do |os, version|
   s.add_dependency(os, "= #{version}")
-N0 end
+N0 end  //Credit: Ouou
 ```
 
    ▄█    █▄     ▄████████    ▄████████  ▄█      ███      ▄██████▄     ▄████████ 
