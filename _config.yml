@@ -11,12 +11,12 @@ webrick:
   headers:
     Access-Control-Allow-Origin: "*"
 ## Global Variables
-email: "mkc@gift.ac.cn"
-github: "https://gitlab.com/veritos"
+email: "m@veritos.org"
+github:
 # path to: css/, fonts/, img/ and js/
 assets_path: "/assets" # i.e. "/assets" 
 statement: "VeritOS, Copyleft @2020"
 # default max toc levels: 1 - 6 (h1 - h6)
 toc_level: 3
 # texts randomly displayed in background
-bgtext: "αβγδεζηθικλμνξοπρστυφχψω∷∫∮∝∞∧∨∑∏∪∩∈∵∴⊥‖∠⌒⊙≌√"
+bgtext: "αβγδεζηθικλμνξοπρστυφχψω∷∫愛∮∝∞∧∨∑∏∪∩∈∵∴⊥‖∠⌒⊙≌√"
