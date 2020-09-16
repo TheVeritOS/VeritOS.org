@@ -13,15 +13,18 @@ encrypted_text: false
 permalink: /contributors
 ---
 
-## Locale
+## Thanks 
+Much thanks to the people who contributed and contributing to VeritOS, you are the reason why VeritOS going better and better.
 
+## Locale
 * Japanese: Nana
 * Germany: Yiou
 * Korean: Shengnan
 * Chinish: Mankek
 * Spanish: 
 
-##  System engineering
+##  Engineering
+* System: Wecans
 * GNOME: N0B8D1
 * Arch: 0xFly
 * Server: Sirung
