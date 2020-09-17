@@ -5,7 +5,9 @@ toc: false
 home_btn: true
 btn_text: true
 footer: false
-title: "VeritOS - Blockchain Operating System"
+title: "VeritOS - Sistem Operasi Blockchain"
+excerpt: "VeritOS adalah Sistem Operasi Blockchain sejak tahun 2018. Sebagai OS percuma yang berpusat pada blockchain, VeritOS sangat menumpukan pada keselamatan pengguna, privasi dan kegunaan."
+keywords: "Blockchain, Sistem Operasi, OS, VeritOS, Defi, Decentralized, Open Source, Bitcoin, Ethereum, Wallet, Mining, IPFS"
 author: "VeritOS"
 encrypted_text: true
 permalink: /ms
