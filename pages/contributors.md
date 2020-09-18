@@ -17,10 +17,10 @@ permalink: /contributors
 Much thanks to the people who contributed and contributing to VeritOS, you are the reason why VeritOS going better and better.
 
 ## Locale
-* Japanese: Nana
-* Germany: Yiou
-* Korean: Shengnan
 * Chinish: Mankek
+* Germany: Boxer
+* Japanese: Nana
+* Korean: Shengnan
 * Spanish: 
 
 ##  Engineering
