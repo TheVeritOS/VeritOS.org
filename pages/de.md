@@ -31,7 +31,7 @@ $$
 # Surfen Sie mit VeritOS in der Blockchain-Welt
 Planet::Decentralized.os.each do |os, version|
   s.add_dependency(os, "= #{version}")
-N0 end  //Credit: Ouou
+N0 end  //Thanks_to: Boxer
 ```
 
    ▄█    █▄     ▄████████    ▄████████  ▄█      ███      ▄██████▄     ▄████████ 
