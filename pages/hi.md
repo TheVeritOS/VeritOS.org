@@ -5,15 +5,15 @@ toc: false
 home_btn: true
 btn_text: true
 footer: false
-title: "VeritOS - Sistem Operasi Blockchain"
+title: "VeritOS - खण्डशृंखला प्रचालन_तन्त्र"
 excerpt: "2018 के बाद से वेरिटोस एक ब्लॉकचैन ऑपरेटिंग सिस्टम है। ब्लॉकचैन-केंद्रित फ्री ओएस के रूप में, वेरिटोस ने उपयोगकर्ता सुरक्षा, गोपनीयता और उपयोगिता पर बहुत ध्यान केंद्रित किया है।  कुशल शोधकर्ताओं और अनुभवी ओपन सोर्स प्रशंसकों द्वारा निर्मित, वेरिटोस अगले खुले वेब में रुचि रखने वाले सभी लोगों के लिए सुंदर रास्ता प्रस्तुत करता है"
-keywords: "Blockchain, Sistem Operasi, OS, VeritOS, Defi, Decentralized, Open Source, Bitcoin, Ethereum, Wallet, Mining, IPFS"
+keywords: "Blockchain, प्रचालन_तन्त्र, OS, VeritOS, खण्डशृंखला, Decentralized, Open Source, Bitcoin, Ethereum, Wallet, IPFS"
 author: "VeritOS"
 encrypted_text: true
 permalink: /hi
 ---
 
-# VeritOS - Sistem Operasi Blockchain
+# VeritOS - खण्डशृंखला प्रचालन_तन्त्र
 
 2018 के बाद से वेरिटोस एक ब्लॉकचैन ऑपरेटिंग सिस्टम है। ब्लॉकचैन-केंद्रित फ्री ओएस के रूप में, वेरिटोस ने उपयोगकर्ता सुरक्षा, गोपनीयता और उपयोगिता पर बहुत ध्यान केंद्रित किया है।  कुशल शोधकर्ताओं और अनुभवी ओपन सोर्स प्रशंसकों द्वारा निर्मित, वेरिटोस अगले खुले वेब में रुचि रखने वाले सभी लोगों के लिए सुंदर रास्ता प्रस्तुत करता है
 
