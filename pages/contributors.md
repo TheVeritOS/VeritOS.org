@@ -19,6 +19,7 @@ Much thanks to the people who contributed and contributing to VeritOS, you are t
 ## Locale
 * Chinish: Mankek
 * Germany: Boxer
+* Hindi: Sagar
 * Japanese: Nana
 * Korean: Shengnan
 * Spanish: 

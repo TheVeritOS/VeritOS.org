@@ -45,5 +45,5 @@ NOend
                                                                                                                                                                                                                                           ███    ███                                                                       
 
 
-[English](https://veritos.org/) - [Deutsch](de) - [日本語](ja) - [Español](es) - [Français](fr) - [Tiếng Việt](vi) - [漢字](zh-hant) - [简化字](zh-hans) - [한국어](ko) - [தமிழ் ](ta) - [Bahasa Melayu](ms)
+[English](https://veritos.org/) - [Deutsch](de) - [日本語](ja) - [Español](es) - [Français](fr) - [Tiếng Việt](vi) - [漢字](zh-hant) - [简化字](zh-hans) - [한국어](ko) - [[हिन्दी](hi) - [Bahasa Melayu](ms)
 

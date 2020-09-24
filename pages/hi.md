@@ -6,7 +6,7 @@ home_btn: true
 btn_text: true
 footer: false
 title: "VeritOS - Sistem Operasi Blockchain"
-excerpt: "VeritOS adalah Sistem Operasi Blockchain sejak tahun 2018. Sebagai OS percuma yang berpusat pada blockchain, VeritOS sangat menumpukan pada keselamatan pengguna, privasi dan kegunaan."
+excerpt: "2018 के बाद से वेरिटोस एक ब्लॉकचैन ऑपरेटिंग सिस्टम है। ब्लॉकचैन-केंद्रित फ्री ओएस के रूप में, वेरिटोस ने उपयोगकर्ता सुरक्षा, गोपनीयता और उपयोगिता पर बहुत ध्यान केंद्रित किया है।  कुशल शोधकर्ताओं और अनुभवी ओपन सोर्स प्रशंसकों द्वारा निर्मित, वेरिटोस अगले खुले वेब में रुचि रखने वाले सभी लोगों के लिए सुंदर रास्ता प्रस्तुत करता है"
 keywords: "Blockchain, Sistem Operasi, OS, VeritOS, Defi, Decentralized, Open Source, Bitcoin, Ethereum, Wallet, Mining, IPFS"
 author: "VeritOS"
 encrypted_text: true
@@ -15,17 +15,17 @@ permalink: /hi
 
 # VeritOS - Sistem Operasi Blockchain
 
-VeritOS adalah Sistem Operasi Blockchain sejak tahun 2018. Sebagai OS percuma yang berpusat pada blockchain, VeritOS sangat menumpukan pada keselamatan pengguna, privasi dan kegunaan. Dibina oleh penyelidik yang mahir dan peminat sumber terbuka yang berpengalaman, VeritOS menghadirkan jalan yang indah untuk semua orang yang berminat dalam laman web terbuka seterusnya.
+2018 के बाद से वेरिटोस एक ब्लॉकचैन ऑपरेटिंग सिस्टम है। ब्लॉकचैन-केंद्रित फ्री ओएस के रूप में, वेरिटोस ने उपयोगकर्ता सुरक्षा, गोपनीयता और उपयोगिता पर बहुत ध्यान केंद्रित किया है।  कुशल शोधकर्ताओं और अनुभवी ओपन सोर्स प्रशंसकों द्वारा निर्मित, वेरिटोस अगले खुले वेब में रुचि रखने वाले सभी लोगों के लिए सुंदर रास्ता प्रस्तुत करता है
 
 $$
 E_{world}(x)\rightarrow (x+n) mod E_{world}(x)^{+} = (x-n) mod 26 
 $$
 
-* Keselamatan dan Privasi yang tinggi.
-* Mudah digunakan untuk pengguna bukan teknikal.
-* Reka bentuk berpusatkan blockchain.
-* Hubungi pasukan VeritOS (Encrypt Token: 5147):
-  <p class="encrypted" id="ZER7V3r2Ps+rj3HROaB2LAQb1Zxdbzb4qS9VA/mKsq7QmWR+x8Bg==">Kandungan yang disulitkan! Sila masukkan token untuk melihat.</p>
+* उच्च सुरक्षा और गोपनीयता
+* गैर-तकनीकी उपयोगकर्ताओं के लिए उपयोग करना आसान है।
+* ब्लॉकचेन केंद्रित डिजाइन।
+* वेरिटोस टीम से संपर्क करें (टोकन को एन्क्रिप्ट करें: 5147):
+  <p class="encrypted" id="ZER7V3r2Ps+rj3HROaB2LAQb1Zxdbzb4qS9VA/mKsq7QmWR+x8Bg=="> एन्क्रिप्टेड सामग्री!  कृपया देखने के लिए इनपुट टोकन।</p>
 
 ```ruby
 # Surf the Blockchain world with VeritOS
@@ -45,5 +45,5 @@ N0 end
                                                                                                                                                                                                                                           ███    ███                                                                       
 
 
-[English](https://veritos.org/) - [Deutsch](de) - [日本語](ja) - [Español](es) - [Français](fr) - [Tiếng Việt](vi) - [漢字](zh-hant) - [简化字](zh-hans) - [한국어](ko) - [தமிழ் ](ta) - [Bahasa Melayu](ms)
+[English](https://veritos.org/) - [Deutsch](de) - [日本語](ja) - [Español](es) - [Français](fr) - [Tiếng Việt](vi) - [漢字](zh-hant) - [简化字](zh-hans) - [한국어](ko) - [हिन्दी](hi) - [Bahasa Melayu](ms)
 
