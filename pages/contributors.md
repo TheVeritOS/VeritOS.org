@@ -14,7 +14,7 @@ permalink: /contributors
 ---
 
 ## Thanks 
-Much thanks to the people who contributed and contributing to VeritOS, you are the reason why VeritOS going better and better.
+Much thanks to the people who contributed and contributing to VeritOS, you are the reason why VeritOS going better and better. The core development team and extend volunteers team are both great at sharing latest beauty of journey to the decentralized world.
 
 ## Locale
 * Chinish: Mankek
