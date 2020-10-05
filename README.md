@@ -1,1 +1,1 @@
-# veritos
+# VeritOS
