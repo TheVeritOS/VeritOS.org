@@ -22,6 +22,7 @@ Commen users, develoers and miners can use VeritOS to begin the journey in block
 ##  Power Points
 * High Security and Privacy.
 * Blockchain-centric design.
+* [Formal Verification](formal-verification)
 
 ##  People Points
 * [Contributors](contributors)
