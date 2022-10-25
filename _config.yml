@@ -4,8 +4,8 @@ owner: "VeritOS"
 url: "https://veritos.org"
 baseurl: "/"
 permalink: /:title/
-description: "VeritOS is a Blockchain Operating System since 2018, native blockchain-centric designed for open web, and focusing on user security, privacy and usability"
-keywords: "Blockchain, Operating System, OS, VeritOS, Defi, Decentralized, Open Source, Bitcoin, Ethereum, Wallet, Mining, IPFS"
+description: "VeritOS is a Web3 Operating System since 2018, native Web3-centric designed for open web, and focusing on user security, privacy and usability"
+keywords: "Blockchain, Web3, Operating System, Token, OS, VeritOS, Defi, Decentralized, Open Source, Bitcoin, Ethereum, Wallet, Mining, IPFS"
 markdown: kramdown
 webrick:
   headers:
@@ -15,7 +15,7 @@ email: "m@veritos.org"
 github:
 # path to: css/, fonts/, img/ and js/
 assets_path: "/assets" # i.e. "/assets" 
-statement: "VeritOS, Copyleft @2020"
+statement: "VeritOS, Copyleft @2022"
 # default max toc levels: 1 - 6 (h1 - h6)
 toc_level: 3
 # texts randomly displayed in background
