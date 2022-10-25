@@ -5,17 +5,17 @@ toc: false
 home_btn: true
 btn_text: true
 footer: false
-title: "VeritOS - Blockchain Operating System"
-excerpt: "VeritOS is a Blockchain Operating System since 2018, native blockchain-centric designed for open web, and focusing on user security, privacy and usability"
-keywords: "Blockchain, Operating System, OS, VeritOS, Defi, Decentralized, Open Source, Formal Verification, Bitcoin, Ethereum, Wallet, Mining, IPFS"
+title: "VeritOS - Web3 Operating System"
+excerpt: "VeritOS is a Web3 Operating System since 2018, native blockchain-centric designed for open web, and focusing on user security, privacy and usability"
+keywords: "Blockchain, Web3, Token, Operating System, OS, VeritOS, Defi, Decentralized, Open Source, Formal Verification, Bitcoin, Ethereum, Wallet, Mining, IPFS"
 author: "VeritOS"
 encrypted_text: true
 permalink: /
 ---
 
-# VeritOS - Blockchain Operating System
+# VeritOS - Web3 Operating System
 
-VeritOS is a Blockchain Operating System since 2018. As a blockchain-centric free OS, VeritOS heavily focused on user security, privacy and usability. Built by skilled researchers and experienced open source fans, VeritOS presents the beautiful way forward for everyone interested in the next open web.
+VeritOS is a Web3 Operating System since 2018. As a Web3-centric free OS, VeritOS heavily focused on user security, privacy and usability. Built by skilled researchers and experienced open source fans, VeritOS presents the beautiful way forward for everyone interested in the next open web.
 
 $$
 E_{world}(x)\rightarrow (x+n) mod E_{world}(x)^{+} = (x-n) mod 26 
